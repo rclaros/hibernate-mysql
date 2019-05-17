@@ -1,2 +1,3 @@
-# hibernate-mysql
-Mapeo Objecto-Relacional - Hibernate y  Mysql
+# HIBERNATE MYSQL
+
+##Mapeo Objecto-Relacional - Hibernate y  Mysql
