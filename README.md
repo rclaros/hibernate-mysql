@@ -1,4 +1,4 @@
-# HIBERNATE MYSQL
+# Hibernate Mysql
 
 ## Mapeo Objecto-Relacional - Hibernate y  Mysql
 
